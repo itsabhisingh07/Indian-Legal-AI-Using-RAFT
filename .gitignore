@@ -1,0 +1,17 @@
+# Ignore API Keys and Environment Variables
+.env
+secret_keys.py
+
+# Ignore massive AI Model Weights (GitHub has a 100MB limit)
+*.bin
+*.safetensors
+*.pt
+models/
+
+# Ignore the compiled Vector Database (users should generate their own)
+chroma_db/
+vector_store/
+
+# Ignore Python cache
+__pycache__/
+*.pyc

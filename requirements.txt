@@ -1,0 +1,18 @@
+# --- Phase 1: Data Engineering & PDF Processing ---
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+pandas
+
+# --- Phase 2: Synthetic Data Generation (Teacher Model) ---
+google-genai
+python-dotenv
+
+# --- Phase 3: Offline RAG Components ---
+chromadb
+sentence-transformers
+
+# --- Phase 4: UI & Research Evaluation ---
+streamlit
+ragas
