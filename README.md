@@ -33,7 +33,7 @@ The architecture was rigorously evaluated against a "Golden Dataset" of 20 compl
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Indian-Legal-AI-RAG.git](https://github.com/yourusername/Indian-Legal-AI-RAG.git)
+   git clone [https://github.com/itsabhisingh07/Indian-Legal-AI-Using-RAFT.git](https://github.com/itsabhisingh07/Indian-Legal-AI-Using-RAFT.git)
 
    Install the required dependencies:
 
